@@ -2,10 +2,16 @@
     <channel>
         <title><![CDATA[Streetshots]]></title>
         <description><![CDATA[Streetshots]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/streetshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 06:45:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 06:46:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/streetshots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/streetshots/92c50a5a-8ffb-4315-98e7-bba946227047/index.html</link>
+            <guid isPermaLink="false">92c50a5a-8ffb-4315-98e7-bba946227047</guid>
+            <pubDate>Sun, 18 Oct 2015 06:45:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lima Street Photography By JustOneArtist...]]></title>
             <description><![CDATA[<article><h1>Lima Street Photography By JustOneArtist...</h1><p>Lima Street Photography By JustOneArtist - Canon REBEL XSI - 1/200th - f11 - 50mm - ISO 200 - EF50mm f1.8 II -</p><img src="http://40.media.tumblr.com/tumblr_m6d7yiEekM1rzlmeco1_500.jpg"></article>]]></description>
