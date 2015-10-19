@@ -2,6 +2,7 @@ name: Streetshots
 favicon: null
 layout_spectrum: 0.24892
 typography_spectrum: 0.683277
+title: Streetshots
 cta:
   domain: null
   bucket: null
