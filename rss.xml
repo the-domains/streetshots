@@ -4,8 +4,15 @@
         <description><![CDATA[Streetshots]]></description>
         <link>https://thegrid.ai/streetshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 09:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2015 09:05:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/streetshots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lima Street Photography By JustOneArtist...]]></title>
+            <description><![CDATA[<article><h1>Lima Street Photography By JustOneArtist...</h1><p>Lima Street Photography By JustOneArtist - Canon REBEL XSI - 1/50th - f1.8 - 50mm - ISO 1600 - EF50mm f1.8 II -</p><img src="http://41.media.tumblr.com/tumblr_m6d7rafomB1rzlmeco1_500.jpg"></article>]]></description>
+            <link>http://my-streetshotcloud.tumblr.com/post/26127364431/lima-street-photography-by-justoneartist-canon</link>
+            <guid isPermaLink="false">a8a7fc74-5021-4bf7-a8ac-00549876373c</guid>
+            <pubDate>Sun, 25 Oct 2015 09:03:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lima Street Photography By JustOneArtist...]]></title>
             <description><![CDATA[<article><h1>Lima Street Photography By JustOneArtist...</h1><p>Lima Street Photography By JustOneArtist - Canon REBEL XSI - 1/250th - f8 - 115mm - ISO 200 - Sigma 18-200mm f3.5-6.3 OS -</p><img src="http://36.media.tumblr.com/tumblr_medkooTu8Z1rzlmeco1_500.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://my-streetshotcloud.tumblr.com/post/46301525773/hong-kong-street-photography-by-ivan-schuler</link>
             <guid isPermaLink="false">e90d6e8c-40b9-4d51-bdee-22cfe93349e5</guid>
             <pubDate>Sun, 25 Oct 2015 09:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[my-photocloud: Photography By JustOneAr...]]></title>
-            <description><![CDATA[<article><h1>my-photocloud: Photography By JustOneAr...</h1><p>my-photocloud: Photography By JustOneArtist</p><img src="http://40.media.tumblr.com/tumblr_m9e7i7KKf91r3yssuo1_500.jpg"></article>]]></description>
-            <link>http://my-streetshotcloud.tumblr.com/post/42516039744/my-photocloud-photography-by-justoneartist</link>
-            <guid isPermaLink="false">94b34799-0c09-4bbb-9988-2015c32eb4b1</guid>
-            <pubDate>Sun, 25 Oct 2015 09:01:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
