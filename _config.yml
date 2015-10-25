@@ -22,9 +22,9 @@ color:
     - '#3c4c66'
     - '#91937e'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose:
   - name: null
     item: null
