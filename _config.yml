@@ -7,11 +7,11 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 1
-  lightness: 0.3125
+  lightness: 0.250844
   rhythmicContrast: 1
-  saturation: 1
+  saturation: 0.495777
 cta: {}
-layout_spectrum: 0.65249
+layout_spectrum: 0.804898
 name: Streetshots
 opengraph: {}
 purpose:
