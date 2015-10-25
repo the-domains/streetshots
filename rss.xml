@@ -4,8 +4,15 @@
         <description><![CDATA[Streetshots]]></description>
         <link>https://thegrid.ai/streetshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 21:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2015 21:54:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/streetshots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[&ldquo;MUSHIAN&rdquo;, Hong Kong street...]]></title>
+            <description><![CDATA[<article><h1>&ldquo;MUSHIAN&rdquo;, Hong Kong street...</h1><p>ldquo;MUSHIAN&rdquo;, Hong Kong street Photography by Ivan Schuler "justoneartist" - Canon REBEL XSI - 1/100th - f2,2 - 50mm - ISO 100 - EF50mm f1.8 II -</p><img src="http://40.media.tumblr.com/6bc0f89325a26b590c40dfc0128387f4/tumblr_mmz9b9c5FR1rzlmeco1_500.jpg"></article>]]></description>
+            <link>http://my-streetshotcloud.tumblr.com/post/50706884517/mushian-hong-kong-street-photography-by-ivan</link>
+            <guid isPermaLink="false">10a33c96-11e9-470b-9dd2-f784e63fa4b5</guid>
+            <pubDate>Sun, 25 Oct 2015 21:50:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It&rsquo;s my turn, Macau street Photog...]]></title>
             <description><![CDATA[<article><h1>It&rsquo;s my turn, Macau street Photog...</h1><p>It&rsquo;s my turn, Macau street Photography by Ivan Schuler "justoneartist" - Canon 6d - 1/100th - f2,8 - 70mm - ISO 100 - Tamron AF 24-70mm f/2.8 SP Di USD VC -</p><img src="http://36.media.tumblr.com/23d929c702224e7bd9942feac9b1cde4/tumblr_mnmclxkkKI1rzlmeco1_500.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://my-streetshotcloud.tumblr.com/post/52030236774/fish-men-red-market-macau-photography-by</link>
             <guid isPermaLink="false">ed71492a-fc14-4004-830a-bad1c25a10cc</guid>
             <pubDate>Sun, 25 Oct 2015 21:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Little Girl, Aguas Calientes street, Per...]]></title>
-            <description><![CDATA[<article><h1>Little Girl, Aguas Calientes street, Per...</h1><p>Little Girl, Aguas Calientes street, Peru Photography by Ivan Schuler "justoneartist" - Canon REBEL XSI - 1/15th - f Manual - 8mm - ISO 1600 - Peleng 8mm f3.5 fisheye -</p><img src="http://40.media.tumblr.com/cadc9c268ddaf75f408d2454cf2c33f8/tumblr_mzze46PDaX1rzlmeco1_500.jpg"></article>]]></description>
-            <link>http://my-streetshotcloud.tumblr.com/post/74543722776/little-girl-aguas-calientes-street-peru</link>
-            <guid isPermaLink="false">bb249214-2cc2-4610-be16-57fbfa6ecbdb</guid>
-            <pubDate>Sun, 25 Oct 2015 21:50:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
