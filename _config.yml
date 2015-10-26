@@ -1,7 +1,7 @@
 name: Streetshots
 favicon: null
 layout_spectrum: 0.804898
-typography_spectrum: 0.683277
+typography_spectrum: 0.48514
 cta:
   domain: null
   bucket: null
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 0
-  lightness: 0.250844
-  saturation: 0.495777
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 1
 purpose:
   - name: null
