@@ -1,27 +1,19 @@
-name: Streetshots
-favicon: null
-layout_spectrum: 0.7597
-typography_spectrum: 0.48514
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
   brandStrength: 1
   lightness: 0.0625
-  saturation: 0.9375
   rhythmicContrast: 1
+  saturation: 0.9375
+cta: {}
+layout_spectrum: 0.7597
+name: Streetshots
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.48514
